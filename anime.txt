@@ -7,10 +7,16 @@
 ! Removing empty ad space container from GoGoAnime
 anitaku.to##.ads_watch_top
 ! AniWave
-||aniwave.to/assets/_bnx/mangafire_7xx.gif
-aniwave.to##.text-center.mb-4
-aniwave.to##.azlist
-aniwave.to##.brating
+||aniwave.*/assets/_bnx/mangafire_7xx.gif
+aniwave.*##.text-center.mb-4
+aniwave.*##.azlist
+aniwave.*##.brating
+aniwave.*##.mt-1.inline-links
+aniwave.*##.copyright
+aniwave.*##.disclaimer
+aniwave.*##.mb-4.bsharing
+aniwave.*##.main-menu
+aniwave.*##[href="https://mangafire.to/"]
 !! MyAnimeList
 ! Recommandation
 myanimelist.net##div:nth-of-type(7)
