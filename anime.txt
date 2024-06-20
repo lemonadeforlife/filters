@@ -11,6 +11,7 @@ anitaku.so,gogoanime3.co##.ads_watch_top
 anitaku.so,gogoanime3.co##.headnav_center
 ! Allow Anime Episode ranking
 @@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.so
+
 !! AniWave
 ||aniwave.to,aniwave.li,aniwave.vc/assets/_bnx/mangafire_7xx.gif
 aniwave.to,aniwave.li,aniwave.vc##.text-center.mb-4
@@ -22,6 +23,7 @@ aniwave.to,aniwave.li,aniwave.vc##.disclaimer
 aniwave.to,aniwave.li,aniwave.vc##.mb-4.bsharing
 aniwave.to,aniwave.li,aniwave.vc##.main-menu
 aniwave.to,aniwave.li,aniwave.vc##[href="https://mangafire.to/"]
+
 !! MyAnimeList
 ! Recommandation
 myanimelist.net##div:nth-of-type(7)
