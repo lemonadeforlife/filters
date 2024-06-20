@@ -1,0 +1,11 @@
+! Removing empty ad space container from GoGoAnime
+anitaku.to##.ads_watch_top
+! AniWave
+||aniwave.to/assets/_bnx/mangafire_7xx.gif
+aniwave.to##.text-center.mb-4
+aniwave.to##.azlist
+aniwave.to##.brating
+!! MyAnimeList
+! Recommandation
+myanimelist.net##div:nth-of-type(7)
+myanimelist.net##.sUaidzctQfngSNMH-pdatla
