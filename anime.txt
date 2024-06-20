@@ -1,3 +1,8 @@
+[uBlock Origin]
+! Title: Anime Annoyance
+! Homepage: https://github.com/lemonadeforlife/filters
+! License: Unlicense
+
 ! Removing empty ad space container from GoGoAnime
 anitaku.to##.ads_watch_top
 ! AniWave
