@@ -1,5 +1,6 @@
 [uBlock Origin]
 ! Title: Anime Annoyance
+! Description: Hide annoyance from anime related sites
 ! Homepage: https://github.com/lemonadeforlife/filters
 ! License: Unlicense
 
