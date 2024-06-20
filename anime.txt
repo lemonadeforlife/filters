@@ -1,26 +1,27 @@
 [uBlock Origin]
-! Title: Anime Annoyance
+! Title: 🟣Anime Annoyance
 ! Description: Hide annoyance from anime related sites
+! Expires: 7 days
 ! Homepage: https://github.com/lemonadeforlife/filters
 ! License: Unlicense
 
 !! Anitaku/GogoAnime
 ! Removing empty ad space container from GoGoAnime
-anitaku.*##.ads_watch_top
-anitaku.*##.headnav_center
-! Allow 
-@@||ajax.gogocdn.net/anclytic-ajax.html?id=1&link_web=https://anitaku.so/$xhr,domain=anitaku.so
-! AniWave
-||aniwave.*/assets/_bnx/mangafire_7xx.gif
-aniwave.*##.text-center.mb-4
-aniwave.*##.azlist
-aniwave.*##.brating
-aniwave.*##.mt-1.inline-links
-aniwave.*##.copyright
-aniwave.*##.disclaimer
-aniwave.*##.mb-4.bsharing
-aniwave.*##.main-menu
-aniwave.*##[href="https://mangafire.to/"]
+anitaku.so,gogoanime3.co##.ads_watch_top
+anitaku.so,gogoanime3.co##.headnav_center
+! Allow Anime Episode ranking
+@@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.so
+!! AniWave
+||aniwave.to,aniwave.li,aniwave.vc/assets/_bnx/mangafire_7xx.gif
+aniwave.to,aniwave.li,aniwave.vc##.text-center.mb-4
+aniwave.to,aniwave.li,aniwave.vc##.azlist
+aniwave.to,aniwave.li,aniwave.vc##.brating
+aniwave.to,aniwave.li,aniwave.vc##.mt-1.inline-links
+aniwave.to,aniwave.li,aniwave.vc##.copyright
+aniwave.to,aniwave.li,aniwave.vc##.disclaimer
+aniwave.to,aniwave.li,aniwave.vc##.mb-4.bsharing
+aniwave.to,aniwave.li,aniwave.vc##.main-menu
+aniwave.to,aniwave.li,aniwave.vc##[href="https://mangafire.to/"]
 !! MyAnimeList
 ! Recommandation
 myanimelist.net##div:nth-of-type(7)
