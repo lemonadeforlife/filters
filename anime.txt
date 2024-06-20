@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: 🟣 Anime Annoyance
 ! Description: Hide annoyance from anime related sites
-! Expires: 7 days
+! Expires: 1 days
 ! Homepage: https://github.com/lemonadeforlife/filters
 ! License: Unlicense
 
