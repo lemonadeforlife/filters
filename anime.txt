@@ -13,7 +13,6 @@ anitaku.so,gogoanime3.co##.headnav_center
 @@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.so
 
 !! AniWave
-||aniwave.to,aniwave.li,aniwave.vc/assets/_bnx/mangafire_7xx.gif
 aniwave.to,aniwave.li,aniwave.vc##.text-center.mb-4
 aniwave.to,aniwave.li,aniwave.vc##.azlist
 aniwave.to,aniwave.li,aniwave.vc##.brating
@@ -28,3 +27,4 @@ aniwave.to,aniwave.li,aniwave.vc##[href="https://mangafire.to/"]
 ! Recommandation
 myanimelist.net##div:nth-of-type(7)
 myanimelist.net##.sUaidzctQfngSNMH-pdatla
+myanimelist.net##li.smaller:nth-of-type(6) > .non-link
