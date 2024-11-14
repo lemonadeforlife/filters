@@ -10,7 +10,7 @@
 anitaku.*,gogoanime3.co##.ads_watch_top
 anitaku.*,gogoanime3.co##.headnav_center
 ! Allow Anime Episode ranking
-@@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.pe
+@@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.*
 
 !! MyAnimeList
 ! Recommandation
