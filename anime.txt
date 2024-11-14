@@ -7,8 +7,8 @@
 
 !! Anitaku/GogoAnime
 ! Removing empty ad space container from GoGoAnime
-anitaku.pe,gogoanime3.co##.ads_watch_top
-anitaku.pe,gogoanime3.co##.headnav_center
+anitaku.*,gogoanime3.co##.ads_watch_top
+anitaku.*,gogoanime3.co##.headnav_center
 ! Allow Anime Episode ranking
 @@||ajax.gogocdn.net/anclytic-ajax.html$domain=anitaku.pe
 
